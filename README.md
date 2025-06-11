@@ -6,7 +6,7 @@ A novel AI algorithm of GRU model integrated with transfer learning, is proposed
 ### 2.perform transfer learning process
 `python transfer_learning.py`
 ### 3.generate molecules with the pretrained model
-`python sample.py data/50_epoch.ckpt
+`python sample.py data/50_epoch.ckpt`
 ### 4.generate molecules with the transfer learning model
 `python sample.py data/200_epochs_transfer_augument3_one.ckpt`
 ### 5.calculate the properties of the pre-training dataset, transfer learning dataset, and generated molecules
