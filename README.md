@@ -1,5 +1,5 @@
 ## Introduction
-A novel AI algorithm of GRU model integrated with transfer learning, is proposed to perform de novo natural products design that employed as novel NLRP3 inhibitors. The code in this repository is inspired on [QBMG](https://github.com/SYSU-RCDD/QBMG)
+A novel AI algorithm of TransGenGRU is proposed to perform de novo natural products design that employed as novel NLRP3 inhibitors. The code in this repository is inspired on [QBMG](https://github.com/SYSU-RCDD/QBMG)
 ## Usage
 ### 1.perform pre-training process
 `python train.py`
